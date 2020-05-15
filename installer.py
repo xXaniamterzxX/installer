@@ -22,7 +22,7 @@ else:
     os.system("git init .")
     if dev:
         print("adding remote repo")
-    os.system("git remote add origin https://github.com/MTTPAM/PublicRelease.git")
+    os.system("git remote add origin https://github.com/xXaniamterzxX/Toontown-Mystery.git")
     if dev:
         print("Fetching files, and updating.")
     os.system("git fetch --all")
