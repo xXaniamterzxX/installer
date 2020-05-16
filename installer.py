@@ -31,5 +31,4 @@ else:
     print("Done; Launching launcher")
     os.system("del installer.py /A")
     os.system("del installer.bat /A")
-    os.system("start launcher.bat")
 os.exit()
